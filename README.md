@@ -1,4 +1,4 @@
-## User-land rootkit test
+## User-land rootkit learning
 This is a simple user-land rootkit for linux which was created purely for educational purposes.
 
 ### Simple file hider module
